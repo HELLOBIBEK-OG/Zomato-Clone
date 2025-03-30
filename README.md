@@ -71,5 +71,5 @@ Feel free to contribute by opening issues or submitting pull requests.
 
 ---
 
-Developed by **Saurabh Prasad** 🚀
+Developed by **Pritiranjan Sahoo** 🚀
 
